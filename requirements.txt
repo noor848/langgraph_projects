@@ -1,0 +1,4 @@
+langgraph>=0.0.23
+langchain-openai>=0.0.8
+python-dotenv>=1.0.0
+ipython>=8.0.0
